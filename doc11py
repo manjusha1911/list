@@ -1,0 +1,30 @@
+# n=int(input("enter number of elements:"))
+# i=0
+# b=str(n)
+# while i<len(b):
+#     l=b[i]
+#     k=int(l)
+#     print(k*k,end="")
+#     i+=1
+# n=int(input("enter the number:"))
+# i=1
+# while i<=n//2:
+    # print(n)
+    # i+=1
+
+# n=int(input("enter number of elements:"))
+# b=[]
+# i=0
+# while i<n:
+#       l=int(input("enter the number:"))
+#       b.append(l)
+#       num=b[i]
+#       n=num*1
+#       r=num%1000
+#       m=r%100
+#       y=m%10
+#       i+=1
+#       print('"',n-r,"+",r-n,"+",m-y,"+",y,'"')
+    
+    
+    
